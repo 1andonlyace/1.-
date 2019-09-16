@@ -1,0 +1,30 @@
+		body {
+			background-color: white
+		}
+		p {
+			font-family: 'Gugi', cursive;
+			font-family: 'Black Han Sans', sans-serif;
+		}
+		
+		.mytitle {
+			color: #FAFAFA;
+		}
+		.align-center { 
+			text-align: center; 
+		}
+		.firstfont {
+			font-size: 30px;
+		}
+		.secondfont {
+			font-size: 20px;
+		}
+		.login-box {
+			width: 500px;
+			background-color: #8258FA;
+			margin: 50px auto 0 auto;
+			padding: 50px 20px 50px 20px
+		}
+		.login-bt {
+			width: 500px;
+			margin: 30 0 0 210;
+		}
